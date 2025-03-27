@@ -1,0 +1,45 @@
+!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tonou Motivation Limitless</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Bannière -->
+    <header>
+        <h1>Tonou Motivation Limitless</h1>
+        <p>Repousse tes limites – Réalise tes rêves</p>
+    </header>
+
+    <!-- Section Citations -->
+    <section id="citations">
+        <h2>Citations Inspirantes</h2>
+        <blockquote>“Le succès, c’est aller d’échec en échec sans perdre son enthousiasme.” – Winston Churchill</blockquote>
+        <blockquote>“Agis comme si tout dépendait de toi. Prie comme si tout dépendait de Dieu.” – Saint Ignace de Loyola</blockquote>
+    </section>
+
+    <!-- Section Vidéos Motivantes -->
+    <section id="videos">
+        <h2>Vidéos Motivantes</h2>
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TON_LIEN_VIDEO" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TON_AUTRE_LIEN" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <!-- Section À propos -->
+    <section id="apropos">
+        <h2>À Propos</h2>
+        <p>Bienvenue sur <strong>Tonou Motivation Limitless</strong>, un espace dédié à l'inspiration et au dépassement de soi. Notre mission est de t’aider à repousser tes limites et à atteindre tes objectifs.</p>
+    </section>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>&copy; 2025 Tonou Motivation Limitless | Suivez-nous sur <a href="#">Facebook</a> | <a href="#">YouTube</a> | <a href="#">TikTok</a></p>
+    </footer>
+
+</body>
+</html>
